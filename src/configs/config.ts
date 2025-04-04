@@ -45,25 +45,25 @@ export const siteConfig: {
     type: string;
   };
 } = {
-  baseUrl: 'https://muhammadfiaz.com',
-  domain: 'muhammadfiaz.com',
-  author: 'Muhammad Fiaz',
-  author_surname: 'Fiaz',
-  titlePrefix: 'Muhammad Fiaz',
-  github_org_name: 'Fiaz Technologies',
-  country: 'India',
+  baseUrl: 'https://mmo4.fun',
+  domain: 'mmo4.fun',
+  author: 'Vuong Nguyen',
+  author_surname: 'Nguyen',
+  titlePrefix: 'Vuong Nguyen',
+  github_org_name: 'vuong8',
+  country: 'VietNam',
   profile_image:
     'https://avatars.githubusercontent.com/u/75434191?s=400&u=0aa88e4ae941c44425b2be4595cf92b68f578f8a&v=4',
   form_id: 'https://formspree.io/f/myzynpbr',
   social: {
     kofi: 'https://ko-fi.com/muhammadfiaz',
-    sponsor: 'https://github.com/sponsors/muhammad-fiaz',
-    email: 'contact@muhammadfiaz.com',
+    sponsor: 'https://github.com/sponsors/vuong8',
+    email: 'vuongnguyen3009@gmail.com',
     twitter: '@muhammadfiaz_',
-    github: 'muhammad-fiaz',
-    linkedin: 'https://www.linkedin.com/in/muhammad-fiaz-/',
-    blog: 'https://articles.muhammadfiaz.com',
-    medium: 'https://muhammad-fiaz.medium.com',
+    github: 'vuong8',
+    linkedin: 'https://www.linkedin.com/in/vuong8-/',
+    blog: 'https://articles.mmo4.fun',
+    medium: 'https://vuong8.medium.com',
     dev: 'https://dev.to/muhammadfiaz',
     hashnode: 'https://muhammadfiaz.hashnode.dev',
     discord: 'https://discord.gg/mXMhy2EX',
@@ -75,9 +75,9 @@ export const siteConfig: {
     holopin: 'muhammadfiaz'
   },
   metadata: {
-    description: `Hi! I'm Muhammad Fiaz, a Full Stack developer passionate about building apps, exploring AI and ML, and collaborating on exciting projects. Let's connect!`,
+    description: `Hi! I'm Vuong Nguyen, a DevOps engineer passionate about building apps, exploring AI and ML, and collaborating on exciting projects. Let's connect!`,
     keywords:
-      'Muhammad Fiaz, Full Stack Developer, Muhammad Fiaz portfolio, Muhammad Fiaz GitHub, Web Development, Mobile Applications, Machine Learning, Artificial Intelligence, Programming Languages, Open Source Developer, App Development',
+      'Vuong Nguyen, DevOps engineer, Vuong Nguyen portfolio, Vuong Nguyen GitHub, Web Development, Mobile Applications, Machine Learning, Artificial Intelligence, Programming Languages, Open Source Developer, App Development',
     type: 'website'
   },
   chatbot: {
@@ -91,6 +91,6 @@ export const siteConfig: {
     hacktoberfest: 'https://hacktoberfest.com/',
     codsoft: 'https://www.codsoft.in/',
     github_snake:
-      'https://raw.githubusercontent.com/muhammad-fiaz/muhammad-fiaz/output/github-contribution-grid-snake.svg'
+      'https://raw.githubusercontent.com/vuong8/vuong8/output/github-contribution-grid-snake.svg'
   }
 };
